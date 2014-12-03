@@ -1,7 +1,6 @@
 {
     "name": "markdegroot/omnipay-ideal",
     "description": "Laravel wrapper for omnipay-ideal ",
-    "version": "1.0",
     "authors": [
         {
             "name": "Mark de Groot",

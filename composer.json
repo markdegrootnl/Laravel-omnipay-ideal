@@ -1,0 +1,22 @@
+{
+    "name": "markdegroot/omnipay-ideal",
+    "description": "Laravel wrapper for omnipay-ideal ",
+    "version": "1.0",
+    "authors": [
+        {
+            "name": "Mark de Groot",
+            "email": "mail@markdegroot.nl"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "illuminate/support": "~4",
+        "omnipay/ideal": "~1.0@dev"
+    },
+    "autoload": {
+        "psr-0": {
+            "Markdegroot\\OmnipayIdeal": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
